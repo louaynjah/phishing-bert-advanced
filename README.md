@@ -103,15 +103,6 @@ L'accuracy de 99,10 % obtenue ici l'est sur un ensemble de test où le phishing 
 
 ---
 
-## 🔭 Limites & perspectives
-
-- Couverture linguistique encore centrée sur le français et l'anglais
-- Données synthétiques ne remplaçant pas totalement des e-mails réels et récents
-- Pas de supervision continue en production face à l'évolution constante des techniques de phishing
-
-**Pistes d'amélioration** : extension à d'autres langues, boucle de rétroaction à partir des signalements utilisateurs, ré-entraînement périodique.
-
----
 
 ## 📄 Licence
 
